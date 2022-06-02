@@ -1,4 +1,4 @@
-public class Belajar {
+public class Belajar1 {
     public static void main(String args[]){
 
 
@@ -8,8 +8,9 @@ public class Belajar {
           }
           else if(n % 5 == 0){
             System.out.print(n + "habis dibagi 5");
-          }
-          System.out.print(n);
+          } else {
+            System.out.print(n);
+          }  
       }
     }
 
