@@ -22,7 +22,7 @@ public class Belajar1 {
         } 
         if (i == 2){
           System.out.println(n + " Ini bilangan Prima");
-        } else if (i >= 2){
+        } else{
           System.out.println(n + " Ini bukan bilangan Prima");
         }
         
